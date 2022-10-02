@@ -1,3 +1,7 @@
+//Author: Saba Aafreen 
+//This art piece is created by using Processing. There are circles and squares rotating in an arc path and change colours as they rotate. 
+
+
 void setup(){
   size (600, 600);
   background(0);
