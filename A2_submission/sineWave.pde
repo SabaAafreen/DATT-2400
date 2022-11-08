@@ -51,7 +51,7 @@ void draw(){
        sw7.x=0;
       
      }
-  
+  saveFrame("####.jpg");
 }
 class SineWave{
   float x; //x position of point 
