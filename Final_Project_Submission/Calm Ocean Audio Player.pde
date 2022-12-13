@@ -4,18 +4,20 @@ Name: Saba Aafreen
 Student ID: 217945825
 
 NOTE: there is a short latency at the beginning as the sound file is large. 
-Please wait for a few moments for the graphics to render. Thank you and enjoy!
+      Please wait for a few moments for the graphics to render. Thank you and enjoy!
+NOTE: when downloading the music file, please rename it to music.mp3 since it will be downloaded as 
+      Final_Project_Submission_music.mp3 instead
 
 Project name: Calm Ocean Audio Player --> mimicing apps like Spotify where you can skip 
-to different sounds by clicking on the buttons
+              to different sounds by clicking on the buttons
 
 Description: Using the concepts of Object Oriented programming, interactive, 
-if else logic, and geometry, I have implemented four squares in the center of the screen 
-that will each jump to a certain time of the audio file to 
-play a different sound of the ocean and its environment when clicked and 
-stop when another square is clicked. If the user doesn't click on any box after they clicked the 
-previous one then the audio file will continue to play the whole file. When a square is clicked it will 
-change colour to show that it is "active" and playing the music. 
+             if else logic, and geometry, I have implemented four squares in the center of the screen 
+             that will each jump to a certain time of the audio file to 
+             play a different sound of the ocean and its environment when clicked and 
+             stop when another square is clicked. If the user doesn't click on any box after they clicked the 
+             previous one then the audio file will continue to play the whole file. When a square is clicked it will 
+             change colour to show that it is "active" and playing the music. 
 */
 
 
