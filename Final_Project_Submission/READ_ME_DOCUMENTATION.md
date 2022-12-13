@@ -9,3 +9,5 @@ on the button that was clicked. This way, the audio file was able to play immedi
 
 I enjoyed coding using the Object Oriented technique and the SoundFile library. The Object oriented technique really made coding easier and I was able to code efficiently too.
 Overall I think this project was a success and I hope I can continue to make more interesting and interactive applications in the future! 
+
+![image](https://user-images.githubusercontent.com/88702277/207228626-06c2b2cb-a783-4473-9c79-314e917496f7.png)
